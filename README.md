@@ -1,5 +1,5 @@
 <h1 align="center">Alan García</h1>
-<h3 align="center">💻 Desarrollador web Full Stack con experiencia en .NET y Java 💻</h3>
+<h3 align="center">💻 Desarrollador web Full Stack 💻</h3>
 
 ---
 
