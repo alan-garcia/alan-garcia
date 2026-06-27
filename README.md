@@ -1,7 +1,7 @@
 # Alan García
 
-<p>Desarrollador Full Stack especializado en .NET.</p>
-<p>Desarrollo aplicaciones web y soluciones empresariales enfocadas en rendimiento, mantenibilidad y buenas prácticas. Aquí comparto proyectos personales con las que continúo aprendiendo, y otros experimentos.</p>
+<p>Desarrollador Full Stack .NET, con experiencia en desarrollo de aplicaciones web.</p>
+<p>Aquí comparto proyectos personales con las que continúo aprendiendo, y otros experimentos.</p>
 
 ---
 
